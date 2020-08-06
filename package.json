@@ -1,0 +1,21 @@
+{
+  "name": "Modulo9_LlamadasAsincronas_Laboratorio_RickYMorty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/korso484/Modulo9_LlamadasAsincronas_Laboratorio_RickYMorty.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/korso484/Modulo9_LlamadasAsincronas_Laboratorio_RickYMorty/issues"
+  },
+  "homepage": "https://github.com/korso484/Modulo9_LlamadasAsincronas_Laboratorio_RickYMorty#readme"
+}
